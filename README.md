@@ -17,3 +17,6 @@ Authorization Code, Implicit, password credential, client credential 중 __passw
 * HTTP METHOD : GET
 * HTTP HEADER : Bearer Token
   * token: 인증 서버로 받은 Bearer token 값
+
+# 참고 
+인증 서버 : https://github.com/codejcd/Spring-boot-oauth2-AuthenticationServer
