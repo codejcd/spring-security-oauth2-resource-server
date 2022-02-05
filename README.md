@@ -18,4 +18,4 @@ Authorization Code, Implicit, password credential, client credential 중 __passw
   * token: 인증 서버로 받은 Bearer token 값
 
 # 참고 
-인증 서버 : https://github.com/codejcd/Spring-boot-oauth2-AuthenticationServer
+인증 서버 : https://github.com/codejcd/spring-boot-oauth2-authentication-server
