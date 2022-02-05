@@ -1,5 +1,4 @@
 # spring-secutiy-oauth2-resource-server
-Spring-boot-oauth2-ResourceServer
 
 # 내용
 스프링 부트 기반 Oauth2 리소스 서버
