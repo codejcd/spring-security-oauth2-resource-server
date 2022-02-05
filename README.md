@@ -1,4 +1,4 @@
-# Spring-boot-oauth2-ResourceServer
+# spring-secutiy-oauth2-resource-server
 Spring-boot-oauth2-ResourceServer
 
 # 내용
