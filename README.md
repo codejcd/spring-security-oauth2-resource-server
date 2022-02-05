@@ -3,6 +3,10 @@
 # 내용
 스프링 부트 기반 Oauth2 리소스 서버
 
+상세 설명은 아래 블로그를 참고해주세요.
+
+https://codejcd.tistory.com/12
+
 # 개발 환경
 Spring Boot 2.1.6 / Maven 4.0.0 / Mybatis 2.1.0 / MySQL 5.6
 
