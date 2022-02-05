@@ -23,8 +23,6 @@ public class User implements UserDetails {
 	
 	private String status;
 	
-	private String provider;
-	
 	private List<String> roles = new ArrayList<String>();
 
 	
@@ -86,14 +84,6 @@ public class User implements UserDetails {
 
 	public void setName(String name) {
 		this.name = name;
-	}
-
-	public String getProvider() {
-		return provider;
-	}
-
-	public void setProvider(String provider) {
-		this.provider = provider;
 	}
 
 	public List<String> getRoles() {
